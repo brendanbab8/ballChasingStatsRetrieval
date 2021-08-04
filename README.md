@@ -11,4 +11,10 @@
 1. Retrieves all groups created by Bricks and prints them to the command line.
 2. Parses the group data to retrieve the group IDs.
 3. Makes calls to retrieve group-specific stats via ID
-4. Creates a Excel spreadsheet with a page per group.
+4. Creates a Excel spreadsheet with a page per player in the teams requested.
+5. Columns in the spreadsheet have titles.
+
+### Known Errors and their Remedies
+1. Permission Denied- This is probably due to you having the spreadsheet open. Close the spreadsheet and try again.
+
+### Note: If you modify the spreadsheet after the code runs, save it as a separate file with a different name. Otherwise, you will lose your modifications.
