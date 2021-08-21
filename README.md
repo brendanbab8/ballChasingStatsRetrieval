@@ -13,6 +13,7 @@
 3. Makes calls to retrieve group-specific stats via ID
 4. Creates a Excel spreadsheet with a page per player in the teams requested.
 5. Columns in the spreadsheet have titles.
+6. Group metadata and core stats now populate.
 
 ### Known Errors and their Remedies
 1. Permission Denied- This is probably due to you having the spreadsheet open. Close the spreadsheet and try again.
