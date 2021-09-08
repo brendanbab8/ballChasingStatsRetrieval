@@ -26,6 +26,7 @@ def retrieve_stats():
     response = sp.check_output("curl -s -H Authorization:" + token +
                                " \"https://ballchasing.com/api/groups?creator="
                                + STEAMID + "\"", text=True)
+    print("\n", response)
     res_obj = json.loads(response)["list"]
 
     if debug_d:
