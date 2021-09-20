@@ -1,4 +1,5 @@
 # Ballchasing.com Group Stats Retrieval for user Bricks
+Developer: Brendan Boyer
 
 ## Running the Script
 1. Runs on Windows, no guarantees about Macs
@@ -17,5 +18,7 @@
 
 ### Known Errors and their Remedies
 1. Permission Denied- This is probably due to you having the spreadsheet open. Close the spreadsheet and try again.
+2. Extra Data Error- This is probably due to you pasting data using ctrl+v. Instead, paste your date by right-clicking in the command line.
 
 ### Note: If you modify the spreadsheet after the code runs, save it as a separate file with a different name. Otherwise, you will lose your modifications.
+### Note: Let me know any errors/ issues you may have!

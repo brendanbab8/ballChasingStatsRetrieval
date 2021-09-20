@@ -29,7 +29,6 @@ columns = [
     "Boost- Count Collected (Small)",
     "Boost- Count Stolen (Small)",
     "Boost- Time w/ Zero Boost",
-    "Boost- Time w/ Full Boost",
     "Boost- Percent w/ Zero Boost",
     "Boost- Time w/ Full Boost",
     "Boost- Percent w/ Full Boost",
